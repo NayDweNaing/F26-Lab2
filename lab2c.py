@@ -18,5 +18,14 @@
 # ---- and ---- are equal.
 # Get input from the user
 
+str1 = input("Give me a sentence: ")
+str2 = input("Give me another sentence: ")
 
+if len(str1) == len(str2):
+    print("Both sentences have the same characters!");
+elif len(str1) > len(str2):
+    print("The first sentence is longer than the second sentence.");
+else:
+    print("The second sentence is longer than the first sentence.");
+    
 

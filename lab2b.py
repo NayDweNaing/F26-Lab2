@@ -9,3 +9,10 @@
 # TO DO 1:
 # Follow the instructions given in the README.md file.
 
+x = int(input("Type in birthyear to know the mysterious man: "));
+
+if x == 1984:
+    print("George Orwell")
+else:
+    print("not quite right!")
+
