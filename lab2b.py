@@ -1,8 +1,8 @@
 # Add comments before you do anything else.
 
 #!/usr/bin/env python3
-# Author:
-# Date:
+# Author: Nay Dwe Naing
+# Date: 28/9/2026
 # Purpose: Practice using if and else statments.
 # Usage: ./lab2b.py
 
