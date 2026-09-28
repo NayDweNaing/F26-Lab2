@@ -1,17 +1,11 @@
 # Add comments before you do anything else.
 
 #!/usr/bin/env python3
-# Author:
-# Date:
+# Author: Nay Dwe Naing
+# Date: 28/9/2026
 # Purpose: use for loop.
 # Usage: ./lab2k.py
 
-### lab2k.py
-#Write a Python program that calculates the sum of all even numbers from 1 to 100 (inclusive).
-#- Use a for loop to iterate over the range of numbers from 1 to 100.
-#- Inside the loop, check if the current number is even.
-#- If the number is even, add it to a running total.
-#- After the loop, print the final sum.
 total = 0;
 
 for i in range(1, 101):  # Loop through numbers from 1 to 100

@@ -1,13 +1,10 @@
 # Add comments before you do anything else.
 
 #!/usr/bin/env python3
-# Author:
-# Date:
+# Author: Nay Dwe Naing
+# Date: 28/9/2026
 # Purpose: Learn how and practice using nested if, elif, and else statments..
 # Usage: ./lab2g.py
-
-# TO DO 1: Follow the instructions given in README.md file
-# Initialize constant variables for the tax rates and rate limits.
 
 status = input("Please enter your marital status (single/married): ");
 status = status.lower();
